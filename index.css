@@ -1,0 +1,20 @@
+@font-face{
+    font-family: "Gothic";
+    src: url("./GothicA1-ExtraBold.ttf")
+}
+
+
+body {
+    background-color: rgb(170, 89, 89);
+}
+
+p {
+    font-family: "Gothic";
+    font-size: 35px;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    text-align: center;
+}
